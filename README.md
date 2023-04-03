@@ -1,2 +1,0 @@
-# dugout
-just another repository
